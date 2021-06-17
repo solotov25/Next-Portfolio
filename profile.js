@@ -1,5 +1,5 @@
 export const skills = [
-   [ {
+    {
         name: "Python",
         percentage: 80
     },
@@ -23,7 +23,7 @@ export const skills = [
         name: "React",
         percentage: 80
     }
-]
+
 ]
 
 export const experience = [
